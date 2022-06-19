@@ -5,6 +5,10 @@ This is a simple memory card game written in vanilla JS, with just a few functio
 
 ![alt text](assets/memory-game.png)
 
+## How to run
+
+Load this link in your browser https://angrygru.github.io/memory-game/
+
 ## How to play
 
 The rules are very simple:
